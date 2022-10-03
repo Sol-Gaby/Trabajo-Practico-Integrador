@@ -1,0 +1,47 @@
+
+h6{
+    font-size: small;
+    text-transform: uppercase;
+}
+.img_codo{
+    width: 8rem;
+    height: auto;
+}
+.container{
+    margin: auto;
+    background-color: rgb(228, 228, 228);
+}
+#centrado{
+    width: 60%;
+    margin: auto;
+}
+.hono{
+    width: 100%;
+    height: 400px;
+}
+.info{
+    background-color: rgb(76, 76, 76);
+    color: white;
+}
+.charla{
+    text-decoration: none;
+    color: rgb(97, 97, 97);
+}
+.charla:hover{
+    color: rgb(255, 183, 0);
+}
+.orador{
+    font-size: xx-large;
+    font-weight: 700;
+}
+.overlay{
+    position: absolute;
+    background-color:black ;
+
+}
+#footer{
+    background-color: rgb(30, 30, 30);
+}
+#imgn{
+    background: linear-gradient(black black );
+}
