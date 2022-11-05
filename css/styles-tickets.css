@@ -3,6 +3,18 @@ h6{
     font-size: small;
     text-transform: uppercase;
 }
+span{
+    margin-top: 2rem;
+    font-size: larger;
+}
+.porcentaje{
+    font-size: medium;
+    font-weight: 700;
+    font-style: inherit;
+}
+.present{
+    font-size: small;
+}
 .img_codo{
     width: 8rem;
     height: auto;
@@ -38,6 +50,9 @@ h6{
     position: absolute;
     background-color:black ;
 
+}
+#floatingPassword{
+    background-color: rgb(176, 205, 223);
 }
 #footer{
     background-color: rgb(30, 30, 30);
